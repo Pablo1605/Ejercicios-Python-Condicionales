@@ -1,0 +1,1 @@
+#Enunciado: Clasificar un número en un rango: 0–10, 11–20, 21–30 o fuera de rango.

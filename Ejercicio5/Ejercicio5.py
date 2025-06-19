@@ -1,0 +1,1 @@
+#Enunciado: Determinar si un número es divisible entre 3 y 7.

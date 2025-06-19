@@ -1,0 +1,1 @@
+#Enunciado: Calcular si un número ingresado es primo.

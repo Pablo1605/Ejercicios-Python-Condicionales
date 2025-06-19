@@ -1,0 +1,1 @@
+#Enunciado: Comprobar si un número es par o impar.

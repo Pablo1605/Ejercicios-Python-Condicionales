@@ -1,0 +1,1 @@
+#Enunciado: Calcular si una persona puede votar (mayor de edad y con DNI).

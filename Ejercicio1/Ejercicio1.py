@@ -1,0 +1,1 @@
+#Enunciado: Verificar si un número es menor que 100.

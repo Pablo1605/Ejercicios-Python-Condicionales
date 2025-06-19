@@ -1,0 +1,1 @@
+#Enunciado: Calcular si un alumno aprueba con promedio >= 6 (3 notas).

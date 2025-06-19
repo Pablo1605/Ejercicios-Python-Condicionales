@@ -1,0 +1,1 @@
+#Enunciado: Calcular si un número es capicúa (número que se lee igual de izquierda a derecha que de derecha a izquierda, ej: 1221, 3443).

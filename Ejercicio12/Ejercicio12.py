@@ -1,0 +1,1 @@
+#Enunciado: Comprobar si dos números tienen el mismo último dígito.

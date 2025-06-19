@@ -1,0 +1,1 @@
+#Enunciado: Verificar si un triángulo es equilátero, isósceles o escaleno.
